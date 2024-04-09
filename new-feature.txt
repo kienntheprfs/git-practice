@@ -1,2 +1,2 @@
-remote conflict 2 resolved
+remote conflict resolved
 
